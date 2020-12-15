@@ -1,5 +1,5 @@
 def function_0():
-	pass
+	print("Olteanu Laurentiu")
 
 def function_1():
 	pass
@@ -8,55 +8,56 @@ def function_2():
 	pass
 
 def function_3():
-	pass
+
+	print("Diana Popescu")
 
 def function_4():
-	pass
+	print("Micu Petru")
 
 def function_5():
-	pass
+	print("Vlad Sandu")
 
 def function_6():
-	pass
+	print("Enache Alexandra Anamaria")
 
 def function_7():
-	pass
+	print("MrStefanGit")
 
 def function_8():
-	pass
+	print("antonia-tanase")
 
 def function_9():
-	pass
+	print("Tudor Sabina-Mihaela")
 
 def function_10():
-	pass
+	print("Daniela Becheanu")
 
 def function_11():
-	pass
+	print("Irina")
 
 def function_12():
-	pass
+	print("catalina Encea")
 
 def function_13():
-	pass
+	print("Dinu Dumitru-Razvan")
 
 def function_14():
-	pass
+	print("Andrei Calin Adrian")
 
 def function_15():
-	pass
+	print("maria-brinza")
 
 def function_16():
-	pass
+	print("Pasca Mihai Alexandru")
 
 def function_17():
-	pass
+	print("Albu Andreea-Iulia :)")
 
 def function_18():
-	pass
+	print("Ancuta Alexandra")
 
 def function_19():
-	pass
+	print("Mutu Andrei")
 
 def function_20():
 	pass
@@ -68,7 +69,7 @@ def function_22():
 	print ("mihneavrabie")
 
 def function_23():
-	pass
+	print("Stefania Sandu")
 
 def function_24():
 	pass
@@ -80,16 +81,16 @@ def function_26():
 	pass
 
 def function_27():
-	pass
+	print("Iarina Dalimon")
 
 def function_28():
-	pass
+	print("Andrada Craciun")
 
 def function_29():
 	pass
 
 def function_30():
-	pass
+	print("Matei-Iordache")
 
 def function_31():
 	pass
