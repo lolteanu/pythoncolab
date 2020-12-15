@@ -1,5 +1,5 @@
 def function_0():
-	pass
+	print("Olteanu Laurentiu")
 
 def function_1():
 	pass
