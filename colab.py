@@ -44,8 +44,7 @@ def function_14():
 	print("Andrei Calin Adrian")
 
 def function_15():
-	print("Mihai Cojocaru")
-	print("Stefan e camatar sa nu luati bani de la el")
+	pass
 
 def function_16():
 	print("Pasca Mihai Alexandru")
