@@ -8,7 +8,8 @@ def function_2():
 	pass
 
 def function_3():
-	pass
+
+	print("Diana Popescu")
 
 def function_4():
 	print("Micu Petru")
