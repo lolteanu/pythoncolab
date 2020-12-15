@@ -44,8 +44,7 @@ def function_14():
 	pass
 
 def function_15():
-	print("Mihai Cojocaru")
-	print("Stefan e camatar sa nu luati bani de la el")
+
 
 def function_16():
 	pass
@@ -60,10 +59,10 @@ def function_19():
 	pass
 
 def function_20():
+	print("Mihai Cojocaru")
 	pass
-
 def function_21():
-	pass
+	
 
 def function_22():
 	pass
