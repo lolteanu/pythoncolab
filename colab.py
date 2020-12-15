@@ -33,7 +33,7 @@ def function_10():
 	print("Daniela Becheanu")
 
 def function_11():
-	pass
+	print("Irina")
 
 def function_12():
 	pass
