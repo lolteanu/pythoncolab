@@ -17,7 +17,7 @@ def function_5():
 	print("Vlad Sandu")
 
 def function_6():
-	pass
+	print("Enache Alexandra Anamaria")
 
 def function_7():
 	pass
