@@ -83,7 +83,8 @@ def function_27():
 	pass
 
 def function_28():
-	pass
+    print("Andrada Craciun")
+	
 
 def function_29():
 	pass
@@ -125,3 +126,4 @@ functions = [function_0, function_1, function_2, function_3, function_4, functio
 
 for function in functions:
 	function()
+
