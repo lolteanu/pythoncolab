@@ -2,7 +2,7 @@ def function_0():
 	pass
 
 def function_1():
-	pass
+	print("victor")
 
 def function_2():
 	pass
