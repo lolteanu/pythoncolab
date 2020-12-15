@@ -23,6 +23,8 @@ def function_7():
 	pass
 
 def function_8():
+	print(" Stefan Daia" )
+	print(" nu sunt camatar nu il ascultati pe mihai" )
 	pass
 
 def function_9():
