@@ -29,7 +29,7 @@ def function_9():
 	pass
 
 def function_10():
-	pass
+	print("Daniela Becheanu")
 
 def function_11():
 	pass
