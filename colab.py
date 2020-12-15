@@ -53,7 +53,7 @@ def function_17():
 	pass
 
 def function_18():
-	pass
+	print("Ancuta Alexandra")
 
 def function_19():
 	pass
