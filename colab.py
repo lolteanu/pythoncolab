@@ -56,7 +56,7 @@ def function_18():
 	pass
 
 def function_19():
-	pass
+	print("Mutu Andrei")
 
 def function_20():
 	pass
