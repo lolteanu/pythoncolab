@@ -20,7 +20,7 @@ def function_6():
 	pass
 
 def function_7():
-	pass
+	print("MrStefanGit")
 
 def function_8():
 	pass
