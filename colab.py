@@ -54,7 +54,7 @@ def function_17():
 	print("Albu Andreea-Iulia :)")
 
 def function_18():
-	pass
+	print("Ancuta Alexandra")
 
 def function_19():
 	pass
