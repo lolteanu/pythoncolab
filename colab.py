@@ -5,7 +5,7 @@ def function_1():
 	pass
 
 def function_2():
-	pass
+	print("Chivereanu Radu")
 
 def function_3():
 
