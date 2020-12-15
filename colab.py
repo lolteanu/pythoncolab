@@ -36,7 +36,7 @@ def function_11():
 	print("Irina")
 
 def function_12():
-	pass
+	print("catalina Encea")
 
 def function_13():
 	print("Dinu Dumitru-Razvan")
