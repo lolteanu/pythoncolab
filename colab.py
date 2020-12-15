@@ -48,7 +48,7 @@ def function_15():
 	print("Stefan e camatar sa nu luati bani de la el")
 
 def function_16():
-	pass
+	print("Pasca Mihai Alexandru")
 
 def function_17():
 	print("Albu Andreea-Iulia :)")
