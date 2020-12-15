@@ -81,7 +81,7 @@ def function_26():
 	pass
 
 def function_27():
-	pass
+	print("Iarina Dalimon")
 
 def function_28():
 	pass
