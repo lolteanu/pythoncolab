@@ -26,7 +26,7 @@ def function_8():
 	pass
 
 def function_9():
-	pass
+	print("Tudor Sabina-Mihaela")
 
 def function_10():
 	pass
