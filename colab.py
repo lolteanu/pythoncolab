@@ -65,7 +65,7 @@ def function_21():
 	pass
 
 def function_22():
-	pass
+	print ("mihneavrabie")
 
 def function_23():
 	pass
