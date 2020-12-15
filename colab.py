@@ -57,7 +57,7 @@ def function_18():
 	print("Ancuta Alexandra")
 
 def function_19():
-	pass
+	print("Mutu Andrei")
 
 def function_20():
 	pass
